@@ -1,4 +1,6 @@
-## Hi there 👋
+## dix
+
+Hi there! I'm a coder since 2022. My old page is [ahika462](https://github.com/ahika462). I don't know how to write descriptions...
 
 <!--
 **dix-nutz/dix-nutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
