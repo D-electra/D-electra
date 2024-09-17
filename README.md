@@ -10,7 +10,7 @@ I don't know how to write descriptions...
   Depends on theme and quality
 
 ### Can I use your code?
-  Yes, but credit me!
+  Yes, just credit me!
 
 <!--
 **dix-nutz/dix-nutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
