@@ -1,12 +1,12 @@
 # dix
 
-Hi there! I'm a coder since 2022. 
+Hi there! I'm a coder and fnf modder since 2022.
 
 I don't know how to write descriptions...
 
 ## Quick Q&A:
 
-### Would you work on my mod?
+### Will you work on my mod?
   Depends on theme and quality
 
 ### Can I use your code?
