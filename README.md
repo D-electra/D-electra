@@ -10,7 +10,6 @@ I don't know how to write descriptions...
   Depends on theme and quality
 
 ### Can I use your code?
-
   Yes, but credit me!
 
 <!--
