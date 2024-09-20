@@ -2,9 +2,13 @@
 
 Hi there! I'm a coder and fnf modder since 2022.
 
+### Languages
+- Haxe
+- Rust
+
 I don't know how to write descriptions...
 
-## Quick Q&A:
+## Quick Q&A
 
 ### Will you work on my mod?
   Depends on theme and quality
