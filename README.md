@@ -4,7 +4,6 @@ Hi there! I'm a coder and fnf modder since 2022.
 
 ### Languages
 - [Haxe](https://haxe.org/)
-- [Rust](https://www.rust-lang.org/)
 
 I don't know how to write descriptions...
 
