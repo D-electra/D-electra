@@ -2,8 +2,7 @@
 
 Hi there! I'm a coder and fnf modder since 2022.
 
-### Languages
-- [Haxe](https://haxe.org/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dix-nutz)](https://github.com/anuraghazra/github-readme-stats)
 
 I don't know how to write descriptions...
 
