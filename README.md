@@ -2,7 +2,7 @@
 
 Hi there! I'm a coder and fnf modder since 2022.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dix-nutz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dix-nutz&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 I don't know how to write descriptions...
 
