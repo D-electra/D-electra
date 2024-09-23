@@ -2,14 +2,18 @@
 
 Hi there! I'm a coder and fnf modder since 2022.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dix-nutz&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I don't know how to write descriptions...
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dix-nutz&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dix-nutz&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Quick Q&A
 
 ### Will you work on my mod?
-  Depends on theme and quality
+  Depends on theme and quality (or just pay me)
 
 ### Can I use your code?
   Yes, just credit me!
