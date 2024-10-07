@@ -10,14 +10,6 @@ I don't know how to write descriptions...
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dix-nutz&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-## Quick Q&A
-
-### Will you work on my mod?
-  Depends on theme and quality (or just pay me)
-
-### Can I use your code?
-  Yes, just credit me!
-
 <!--
 **dix-nutz/dix-nutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
