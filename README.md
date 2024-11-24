@@ -1,4 +1,4 @@
-# D-electra
+# DixNutzzz
 
 Hi there! I'm a coder and fnf modder since 2021.
 
